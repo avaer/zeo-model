@@ -1,6 +1,6 @@
 {
   "name": "zeo-model",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Load 3D models from various formats and place them in the world scene.",
   "keywords": [
     "zeo-mod"
@@ -8,6 +8,10 @@
   "scripts": {
     "start": "node server.js"
   },
+  "bugs": {
+    "url": "https://github.com/modulesio/zeo-model/issues"
+  },
+  "homepage": "https://github.com/modulesio/zeo-model#readme",
   "dependencies": {},
   "client": "client.js",
   "server": "server.js"
