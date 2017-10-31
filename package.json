@@ -1,0 +1,14 @@
+{
+  "name": "zeo-model",
+  "version": "0.0.5",
+  "description": "Load 3D models from various formats and place them in the world scene.",
+  "keywords": [
+    "zeo-mod"
+  ],
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "client": "client.js",
+  "server": "server.js"
+}
