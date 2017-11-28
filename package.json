@@ -1,6 +1,6 @@
 {
   "name": "zeo-model",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Load 3D models from various formats and place them in the world scene.",
   "keywords": [
     "zeo-mod"
